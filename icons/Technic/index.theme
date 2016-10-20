@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=Numix Technic
+Comment=A colourful icon theme that you can change color of
+
+# Directory list
+Directories=scalable/apps
+
+[scalable/apps]
+Size=48
+MinSize=8
+MaxSize=256
+Context=Apps
+Type=Scalable
+
